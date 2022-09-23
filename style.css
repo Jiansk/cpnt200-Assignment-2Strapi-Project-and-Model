@@ -1,0 +1,19 @@
+h1{
+    background-color: LightSalmon;
+    color: DarkSlateBlue;
+    padding: 25px;
+    margin: 20px;
+    text-align: center;
+    border: 6px solid;
+  }
+  h2 {
+    color: DarkSlateBlue;
+  /*   background-color: lavender; */
+  /*   padding: 25px; */
+  }
+  body {
+  /*   font-family: sans-serif; */
+  /*   font-family: "Gill Sans", sans-serif; */
+    font-family: Georgia, serif;
+    line-height: 1.5
+  }
